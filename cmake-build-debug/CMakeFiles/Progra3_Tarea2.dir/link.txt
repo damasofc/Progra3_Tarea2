@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Progra3_Tarea2.dir/main.cpp.o CMakeFiles/Progra3_Tarea2.dir/Test.cpp.o  -o Progra3_Tarea2 
